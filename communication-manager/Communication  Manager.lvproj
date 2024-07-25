@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
 		<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
-		<Item Name="test.vi" Type="VI" URL="../Socket/test.vi"/>
+		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
 		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
 		<Item Name="State Machine.lvclass" Type="LVClass" URL="../State Machine/State Machine.lvclass"/>
