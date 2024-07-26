@@ -25,6 +25,8 @@
 		<Item Name="Channel Sub.lvclass" Type="LVClass" URL="../Channel Sub/Channel Sub.lvclass"/>
 		<Item Name="Channel Req.lvclass" Type="LVClass" URL="../Channel Req/Channel Req.lvclass"/>
 		<Item Name="Channel Rep.lvclass" Type="LVClass" URL="../Channel Rep/Channel Rep.lvclass"/>
+		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
+		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
