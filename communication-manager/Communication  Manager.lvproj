@@ -23,6 +23,10 @@
 		<Item Name="Communication Channel.lvclass" Type="LVClass" URL="../Communication Channel/Communication Channel Folder/Communication Channel.lvclass"/>
 		<Item Name="MainOrlando.vi" Type="VI" URL="../MainOrlando.vi"/>
 		<Item Name="App.lvclass" Type="LVClass" URL="../App/App.lvclass"/>
+		<Item Name="Channel Pub.lvclass" Type="LVClass" URL="../Channel Pub/Channel Pub.lvclass"/>
+		<Item Name="Channel Sub.lvclass" Type="LVClass" URL="../Channel Sub/Channel Sub.lvclass"/>
+		<Item Name="Channel Req.lvclass" Type="LVClass" URL="../Channel Req/Channel Req.lvclass"/>
+		<Item Name="Channel Rep.lvclass" Type="LVClass" URL="../Channel Rep/Channel Rep.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
