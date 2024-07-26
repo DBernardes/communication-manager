@@ -1,2 +1,5 @@
-# communication-manager
- This a Labview project that implements a manager for 0MQ endpoints.
+# Communication Manager Repository
+
+The Communication Manager (CM) is a collaborative project developed using LabVIEW 2018 to help with the managment of the communication between the software that compound the acquisition system of the Simultaneous and Rapid Camera in Four Bands ([SPARC4](https://coast.lna.br/home/sparc4)). The operation of CM is based on [ZeroMQ](https://zguide.zeromq.org/docs/preface/#ZeroMQ-in-a-Hundred-Words), an open source networking library that allows the communication across various transports like in-process, inter-process, TCP, and multicast. Using this library, CM implements a communication based the request-reply (REQ-REP) pattern, where a query received from a client should be shortly thereafter answered by the server. In addition, each CM is is executed, it generates a log file describing some important event that might happen during its exeuction, like the timeout when receiving the answer of a query, or even the loss of communication. 
+
+In this repo, we provide a documentation to help you to start to use CM...
