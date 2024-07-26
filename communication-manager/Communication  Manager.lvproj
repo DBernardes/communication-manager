@@ -14,14 +14,12 @@
 		<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
 		<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
+		<Item Name="MainOrlando.vi" Type="VI" URL="../MainOrlando.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
 		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
 		<Item Name="State Machine.lvclass" Type="LVClass" URL="../State Machine/State Machine.lvclass"/>
-		<Item Name="Socket.lvclass" Type="LVClass" URL="../Socket/Socket.lvclass"/>
 		<Item Name="Socket2.lvclass" Type="LVClass" URL="../Socket2/Socket2/Socket2.lvclass"/>
-		<Item Name="Communication Manager.lvclass" Type="LVClass" URL="../Communication Manager/Communication Manager.lvclass"/>
 		<Item Name="Communication Channel.lvclass" Type="LVClass" URL="../Communication Channel/Communication Channel Folder/Communication Channel.lvclass"/>
-		<Item Name="MainOrlando.vi" Type="VI" URL="../MainOrlando.vi"/>
 		<Item Name="App.lvclass" Type="LVClass" URL="../App/App.lvclass"/>
 		<Item Name="Channel Pub.lvclass" Type="LVClass" URL="../Channel Pub/Channel Pub.lvclass"/>
 		<Item Name="Channel Sub.lvclass" Type="LVClass" URL="../Channel Sub/Channel Sub.lvclass"/>
