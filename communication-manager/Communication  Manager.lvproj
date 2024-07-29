@@ -11,6 +11,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="examples" Type="Folder">
+			<Item Name="SUB.vi" Type="VI" URL="../General VIs/SUB.vi"/>
+			<Item Name="PUB.vi" Type="VI" URL="../General VIs/PUB.vi"/>
+		</Item>
 		<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
 		<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
 		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
