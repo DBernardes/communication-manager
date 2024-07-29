@@ -15,11 +15,12 @@
 			<Item Name="SUB.vi" Type="VI" URL="../General VIs/SUB.vi"/>
 			<Item Name="PUB.vi" Type="VI" URL="../General VIs/PUB.vi"/>
 		</Item>
-		<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
-		<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
+		<Item Name="utils" Type="Folder">
+			<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
+			<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
+		</Item>
 		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
-		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="MainOrlando.vi" Type="VI" URL="../MainOrlando.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
 		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
@@ -30,6 +31,8 @@
 		<Item Name="Channel Rep.lvclass" Type="LVClass" URL="../Channel Rep/Channel Rep.lvclass"/>
 		<Item Name="Socket.lvclass" Type="LVClass" URL="../Socket/Socket.lvclass"/>
 		<Item Name="Communication Channel.lvclass" Type="LVClass" URL="../Communication Channel/Communication Channel.lvclass"/>
+		<Item Name="REQ.vi" Type="VI" URL="../General VIs/REQ.vi"/>
+		<Item Name="REP.vi" Type="VI" URL="../General VIs/REP.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
