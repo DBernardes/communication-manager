@@ -20,6 +20,7 @@
 		<Item Name="utils" Type="Folder">
 			<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
 			<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
+			<Item Name="socket.cfg" Type="Document" URL="../General VIs/socket.cfg"/>
 		</Item>
 		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
