@@ -26,6 +26,7 @@
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Main2.vi" Type="VI" URL="../Main2.vi"/>
+		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
 		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
 		<Item Name="State Machine.lvclass" Type="LVClass" URL="../State Machine/State Machine.lvclass"/>
@@ -35,7 +36,6 @@
 		<Item Name="Channel Rep.lvclass" Type="LVClass" URL="../Channel Rep/Channel Rep.lvclass"/>
 		<Item Name="Socket.lvclass" Type="LVClass" URL="../Socket/Socket.lvclass"/>
 		<Item Name="Communication Channel.lvclass" Type="LVClass" URL="../Communication Channel/Communication Channel.lvclass"/>
-		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
 		<Item Name="NewSocket.lvclass" Type="LVClass" URL="../NewSocket/NewSocket.lvclass"/>
 		<Item Name="Socket REP.lvclass" Type="LVClass" URL="../NewSocket/Socket REP/Socket REP.lvclass"/>
 		<Item Name="Socket REQ.lvclass" Type="LVClass" URL="../NewSocket/Socket REQ/Socket REQ.lvclass"/>
