@@ -18,9 +18,11 @@
 			<Item Name="REQ.vi" Type="VI" URL="../General VIs/REQ.vi"/>
 		</Item>
 		<Item Name="utils" Type="Folder">
+			<Item Name="socket.cfg" Type="Document" URL="../General VIs/socket.cfg"/>
 			<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
 			<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
-			<Item Name="socket.cfg" Type="Document" URL="../General VIs/socket.cfg"/>
+			<Item Name="test.vi" Type="VI" URL="../General VIs/test.vi"/>
+			<Item Name="test2.vi" Type="VI" URL="../General VIs/test2.vi"/>
 		</Item>
 		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
