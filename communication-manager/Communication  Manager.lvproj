@@ -16,10 +16,12 @@
 			<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
 			<Item Name="socket.cfg" Type="Document" URL="../General VIs/socket.cfg"/>
 		</Item>
+		<Item Name="Requisitante.vi" Type="VI" URL="../Requisitante.vi"/>
+		<Item Name="Respondedor.vi" Type="VI" URL="../Respondedor.vi"/>
+		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
 		<Item Name="Publicador2.vi" Type="VI" URL="../Publicador2.vi"/>
 		<Item Name="Assinante2.vi" Type="VI" URL="../Assinante2.vi"/>
-		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="MainPubSub.vi" Type="VI" URL="../MainPubSub.vi"/>
 		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
