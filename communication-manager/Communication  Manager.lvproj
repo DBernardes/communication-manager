@@ -11,12 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="examples" Type="Folder">
-			<Item Name="SUB.vi" Type="VI" URL="../General VIs/SUB.vi"/>
-			<Item Name="PUB.vi" Type="VI" URL="../General VIs/PUB.vi"/>
-			<Item Name="REP.vi" Type="VI" URL="../General VIs/REP.vi"/>
-			<Item Name="REQ.vi" Type="VI" URL="../General VIs/REQ.vi"/>
-		</Item>
 		<Item Name="utils" Type="Folder">
 			<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
 			<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
@@ -24,9 +18,8 @@
 		</Item>
 		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
+		<Item Name="MainPubSub.vi" Type="VI" URL="../MainPubSub.vi"/>
 		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Main2.vi" Type="VI" URL="../Main2.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
 		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
 		<Item Name="State Machine.lvclass" Type="LVClass" URL="../State Machine/State Machine.lvclass"/>
@@ -34,9 +27,9 @@
 		<Item Name="socket REP.lvclass" Type="LVClass" URL="../socket REP/socket REP.lvclass"/>
 		<Item Name="socket REQ.lvclass" Type="LVClass" URL="../socket REQ/socket REQ.lvclass"/>
 		<Item Name="socket SUB.lvclass" Type="LVClass" URL="../socket SUB/socket SUB.lvclass"/>
+		<Item Name="socket PUB.lvclass" Type="LVClass" URL="../socket PUB/socket PUB.lvclass"/>
 		<Item Name="Communication Channel.lvclass" Type="LVClass" URL="../Communication Channel/Communication Channel.lvclass"/>
 		<Item Name="NewSocket.lvclass" Type="LVClass" URL="../NewSocket/NewSocket.lvclass"/>
-		<Item Name="MainPubSub.vi" Type="VI" URL="../MainPubSub.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
@@ -54,11 +47,6 @@
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 			</Item>
 			<Item Name="split string.vi" Type="VI" URL="../General VIs/split string.vi"/>
-			<Item Name="close socket.vi" Type="VI" URL="../Communication Channel/close socket.vi"/>
-			<Item Name="Channel Pub.lvclass" Type="LVClass" URL="../Channel Pub/Channel Pub.lvclass"/>
-			<Item Name="Channel Sub.lvclass" Type="LVClass" URL="../Channel Sub/Channel Sub.lvclass"/>
-			<Item Name="Channel Req.lvclass" Type="LVClass" URL="../Channel Req/Channel Req.lvclass"/>
-			<Item Name="Channel Rep.lvclass" Type="LVClass" URL="../Channel Rep/Channel Rep.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
