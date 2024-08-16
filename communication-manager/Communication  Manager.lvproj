@@ -22,7 +22,6 @@
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
 		<Item Name="Publicador2.vi" Type="VI" URL="../Publicador2.vi"/>
 		<Item Name="Assinante2.vi" Type="VI" URL="../Assinante2.vi"/>
-		<Item Name="MainPubSub.vi" Type="VI" URL="../MainPubSub.vi"/>
 		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
 		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
 		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
