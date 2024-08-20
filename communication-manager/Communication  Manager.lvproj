@@ -31,7 +31,6 @@
 		<Item Name="socket REQ.lvclass" Type="LVClass" URL="../socket REQ/socket REQ.lvclass"/>
 		<Item Name="socket SUB.lvclass" Type="LVClass" URL="../socket SUB/socket SUB.lvclass"/>
 		<Item Name="socket PUB.lvclass" Type="LVClass" URL="../socket PUB/socket PUB.lvclass"/>
-		<Item Name="Communication Channel.lvclass" Type="LVClass" URL="../Communication Channel/Communication Channel.lvclass"/>
 		<Item Name="NewSocket.lvclass" Type="LVClass" URL="../NewSocket/NewSocket.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
