@@ -23,9 +23,9 @@
 		<Item Name="Publicador2.vi" Type="VI" URL="../Publicador2.vi"/>
 		<Item Name="Assinante2.vi" Type="VI" URL="../Assinante2.vi"/>
 		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
-		<Item Name="Log File.lvclass" Type="LVClass" URL="../Log File/Log File.lvclass"/>
-		<Item Name="RxTx.lvclass" Type="LVClass" URL="../RxTx/RxTx.lvclass"/>
-		<Item Name="State Machine.lvclass" Type="LVClass" URL="../State Machine/State Machine.lvclass"/>
+		<Item Name="CM_Log File.lvclass" Type="LVClass" URL="../Log File/CM_Log File.lvclass"/>
+		<Item Name="CM_RxTx.lvclass" Type="LVClass" URL="../RxTx/CM_RxTx.lvclass"/>
+		<Item Name="CM_State Machine.lvclass" Type="LVClass" URL="../State Machine/CM_State Machine.lvclass"/>
 		<Item Name="Socket.lvclass" Type="LVClass" URL="../Socket/Socket.lvclass"/>
 		<Item Name="socket REP.lvclass" Type="LVClass" URL="../socket REP/socket REP.lvclass"/>
 		<Item Name="socket REQ.lvclass" Type="LVClass" URL="../socket REQ/socket REQ.lvclass"/>
