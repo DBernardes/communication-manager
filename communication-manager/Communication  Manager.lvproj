@@ -12,9 +12,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="utils" Type="Folder">
-			<Item Name="get machine path.vi" Type="VI" URL="../General VIs/get machine path.vi"/>
-			<Item Name="night time stamp.vi" Type="VI" URL="../General VIs/night time stamp.vi"/>
+			<Item Name="CM get machine path.vi" Type="VI" URL="../General VIs/CM get machine path.vi"/>
+			<Item Name="CM night time stamp.vi" Type="VI" URL="../General VIs/CM night time stamp.vi"/>
 			<Item Name="socket.cfg" Type="Document" URL="../General VIs/socket.cfg"/>
+			<Item Name="CM_split string.vi" Type="VI" URL="../General VIs/CM_split string.vi"/>
 		</Item>
 		<Item Name="Requisitante.vi" Type="VI" URL="../Requisitante.vi"/>
 		<Item Name="Respondedor.vi" Type="VI" URL="../Respondedor.vi"/>
@@ -48,7 +49,6 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 			</Item>
-			<Item Name="split string.vi" Type="VI" URL="../General VIs/split string.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
