@@ -17,12 +17,8 @@
 			<Item Name="socket.cfg" Type="Document" URL="../General VIs/socket.cfg"/>
 			<Item Name="CM_split string.vi" Type="VI" URL="../General VIs/CM_split string.vi"/>
 		</Item>
-		<Item Name="Requisitante.vi" Type="VI" URL="../Requisitante.vi"/>
-		<Item Name="Respondedor.vi" Type="VI" URL="../Respondedor.vi"/>
 		<Item Name="Publicador.vi" Type="VI" URL="../Publicador.vi"/>
 		<Item Name="Assinante.vi" Type="VI" URL="../Assinante.vi"/>
-		<Item Name="Publicador2.vi" Type="VI" URL="../Publicador2.vi"/>
-		<Item Name="Assinante2.vi" Type="VI" URL="../Assinante2.vi"/>
 		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
 		<Item Name="CM_Log File.lvclass" Type="LVClass" URL="../Log File/CM_Log File.lvclass"/>
 		<Item Name="CM_RxTx.lvclass" Type="LVClass" URL="../RxTx/CM_RxTx.lvclass"/>
