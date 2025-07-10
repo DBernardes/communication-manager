@@ -20,6 +20,7 @@
 		<Item Name="PUB-SUB.vi" Type="VI" URL="../PUB-SUB.vi"/>
 		<Item Name="REQ-REP.vi" Type="VI" URL="../REQ-REP.vi"/>
 		<Item Name="MainSockets.vi" Type="VI" URL="../NewSocket/MainSockets.vi"/>
+		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="CM_Log File.lvclass" Type="LVClass" URL="../Log File/CM_Log File.lvclass"/>
 		<Item Name="CM_RxTx.lvclass" Type="LVClass" URL="../RxTx/CM_RxTx.lvclass"/>
 		<Item Name="CM_State Machine.lvclass" Type="LVClass" URL="../State Machine/CM_State Machine.lvclass"/>
@@ -28,7 +29,6 @@
 		<Item Name="socket REQ.lvclass" Type="LVClass" URL="../socket REQ/socket REQ.lvclass"/>
 		<Item Name="socket SUB.lvclass" Type="LVClass" URL="../socket SUB/socket SUB.lvclass"/>
 		<Item Name="socket PUB.lvclass" Type="LVClass" URL="../socket PUB/socket PUB.lvclass"/>
-		<Item Name="NewSocket.lvclass" Type="LVClass" URL="../NewSocket/NewSocket.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
